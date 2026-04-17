@@ -19,3 +19,13 @@ Returns → Information about returned orders
 People → Sales representatives or regional managers
 KPI → Key performance indicators and metrics
 Report → Final dashboard/report view
+
+🛠️ Tools & Technologies Used
+Microsoft Excel (.xlsm file)
+Pivot Tables
+Charts & Graphs
+Data Cleaning Techniques
+Excel Functions:
+IF, VLOOKUP, INDEX-MATCH
+SUM, AVERAGE
+Conditional Formatting

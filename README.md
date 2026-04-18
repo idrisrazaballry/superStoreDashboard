@@ -50,3 +50,9 @@ Conditional Formatting
    * Sales trends over months
    * Region-wise performance
    * Return rate analysis
+
+📊 Sample Insights
+Identified high-performing months based on total sales
+Tracked regions with maximum returns
+Evaluated salesperson contributions
+Monitored business KPIs effectively

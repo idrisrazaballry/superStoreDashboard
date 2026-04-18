@@ -29,3 +29,11 @@ Excel Functions:
 IF, VLOOKUP, INDEX-MATCH
 SUM, AVERAGE
 Conditional Formatting
+
+📈 Key Features
+📅 Monthly Sales Analysis
+📦 Order-Level Insights
+🔁 Returns Analysis
+👨‍💼 Salesperson/Region Performance
+📊 Interactive Dashboard (Report Sheet)
+🎯 KPI Tracking

@@ -37,3 +37,16 @@ Conditional Formatting
 👨‍💼 Salesperson/Region Performance
 📊 Interactive Dashboard (Report Sheet)
 🎯 KPI Tracking
+
+🔍 Analysis Performed
+1.Data Cleaning
+Removed missing values
+Handled blank rows
+Standardized formats
+Data Transformation
+Aggregated sales data
+Created calculated fields
+Visualization
+Sales trends over months
+Region-wise performance
+Return rate analysis

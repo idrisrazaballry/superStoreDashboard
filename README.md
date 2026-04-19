@@ -64,3 +64,9 @@ Navigate through sheets:
   * Start with Report for dashboard view
   * Explore Orders and Returns for raw data
 Interact with filters and pivot tables
+
+📌 Future Improvements
+Add Power BI dashboard for advanced visualization
+Automate data refresh
+Integrate predictive analytics (ML models)
+Improve UI/UX of dashboard

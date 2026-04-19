@@ -70,3 +70,7 @@ Interact with filters and pivot tables
 * Automate data refresh
 * Integrate predictive analytics (ML models)
 * Improve UI/UX of dashboard
+
+**👨‍💻 Author**
+Idris
+Aspiring Data Analyst / AI Engineer

@@ -56,3 +56,11 @@ Identified high-performing months based on total sales
 Tracked regions with maximum returns
 Evaluated salesperson contributions
 Monitored business KPIs effectively
+
+🚀 How to Use
+Download the Excel file
+Open in Microsoft Excel (enable macros if required)
+Navigate through sheets:
+Start with Report for dashboard view
+Explore Orders and Returns for raw data
+Interact with filters and pivot tables

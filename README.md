@@ -61,6 +61,6 @@ Monitored business KPIs effectively
 Download the Excel file
 Open in Microsoft Excel (enable macros if required)
 Navigate through sheets:
-Start with Report for dashboard view
-Explore Orders and Returns for raw data
+  * Start with Report for dashboard view
+  * Explore Orders and Returns for raw data
 Interact with filters and pivot tables

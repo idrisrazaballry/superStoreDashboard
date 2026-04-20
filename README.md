@@ -51,11 +51,11 @@ Conditional Formatting
    * Region-wise performance
    * Return rate analysis
 
-📊 Sample Insights
-Identified high-performing months based on total sales
-Tracked regions with maximum returns
-Evaluated salesperson contributions
-Monitored business KPIs effectively
+ **Sample Insights**
+1. Identified high-performing months based on total sales
+2. Tracked regions with maximum returns
+3. Evaluated salesperson contributions
+4. Monitored business KPIs effectively
 
 🚀 How to Use
 Download the Excel file

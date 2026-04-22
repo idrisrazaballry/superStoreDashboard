@@ -38,7 +38,7 @@ Conditional Formatting
 * Interactive Dashboard (Report Sheet)
 * KPI Tracking
 
-🔍 Analysis Performed
+ Analysis Performed
 1. Data Cleaning
    * Removed missing values
    * Handled blank rows
@@ -57,7 +57,7 @@ Conditional Formatting
 3. Evaluated salesperson contributions
 4. Monitored business KPIs effectively
 
-🚀 How to Use
+ How to Use
 Download the Excel file
 Open in Microsoft Excel (enable macros if required)
 Navigate through sheets:

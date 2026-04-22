@@ -65,12 +65,12 @@ Navigate through sheets:
   * Explore Orders and Returns for raw data
 Interact with filters and pivot tables
 
-📌 Future Improvements
+ Future Improvements
 * Add Power BI dashboard for advanced visualization
 * Automate data refresh
 * Integrate predictive analytics (ML models)
 * Improve UI/UX of dashboard
 
-**👨‍💻 Author**
+** Author**
 Idris
 Aspiring Data Analyst / AI Engineer

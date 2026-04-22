@@ -20,7 +20,7 @@ People → Sales representatives or regional managers
 KPI → Key performance indicators and metrics
 Report → Final dashboard/report view
 
-🛠️ Tools & Technologies Used
+_Tools & Technologies Used_
 Microsoft Excel (.xlsm file)
 Pivot Tables
 Charts & Graphs
